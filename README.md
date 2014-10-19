@@ -1,11 +1,11 @@
-# FitLike
+FitLike
 =======
 
 ## TEAM
 
 - Stuart Foy (@stuart_foy)
 - Ian Isted (@ianisted)
-- Angela Smith (@)
+- Angela O'Brien-McConnel (@peaches16626)
 - Stephen Clarke (@stphnclrk)
 - Billy Fagan (@billythekid)
 
@@ -41,7 +41,7 @@ This interface needs to be integrated into the back-end to build the prototype, 
 
 The back-end was built by Ian Isted and Billy Fagan, and pulls large datasets from Match The City based on effort rating.
 
-![HTML and CSS by Angela and Stephen.](https://raw.github.com/codethecity/fitlike/master/resources/backend-v1.jpg)
+![The back-end test build](https://raw.github.com/codethecity/fitlike/master/resources/backend-v1.jpg)
 
 The back-end needs to be integrated into the front-end, and will need some re-writing due it being quickly thrown together. We also need to filter the data by activity type.
 
