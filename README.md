@@ -5,7 +5,7 @@ FitLike
 
 - Stuart Foy (@stuart_foy)
 - Ian Isted (@ianisted)
-- Angela O'Brien-McConnel (@peaches16626)
+- Angela O'Brien-McConnell (@peaches16626)
 - Stephen Clarke (@stphnclrk)
 - Billy Fagan (@billythekid)
 
